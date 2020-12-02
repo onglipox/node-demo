@@ -1,0 +1,23 @@
+{
+	"name": "node-demo",
+	"version": "1.0.0",
+	"description": "This project consists of a node learning chapters and implementation",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/onglipox/node-demo.git"
+	},
+	"author": "Kushagra Gupta",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/onglipox/node-demo/issues"
+	},
+	"homepage": "https://github.com/onglipox/node-demo#readme",
+	"dependencies": {
+		"mongoose": "^5.11.1",
+		"underscore": "^1.12.0"
+	}
+}
